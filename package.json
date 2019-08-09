@@ -1,0 +1,8 @@
+{
+  "name":"jira-web-hooks",
+  "version":"0.0.0"
+  "repository":"git@github.com:BknowlesDev/jira-web-hooks.git"
+  "dependencies":{
+    "express":"4.17.1"
+  }
+}
